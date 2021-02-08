@@ -7,7 +7,7 @@ ___
 ![email](./img/email.png) irina.giruta@gmail.com &nbsp;&nbsp; 
 ![call](./img/call.png) +38(050) 428-30-30 &nbsp;&nbsp;
 ![location](./img/location.png) Dnepr <br>
-![linkedin](./img/linkedin.png) https://www.linkedin.com/in/irina-giruta &nbsp;&nbsp;
+![linkedin](./img/linkedin.png) [linkedin.Giruta](https://www.linkedin.com/in/irina-giruta) &nbsp;&nbsp;
 ![github](./img/github.png) [Giruta](https://github.com/Giruta)
 
 #### SUMMARY
