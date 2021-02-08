@@ -107,12 +107,14 @@ ___
 - SoftServe - WebUI / Fullstack Development (2020)
 
 `Online courses:`
-- https://learn.freecodecamp.org - "Responsive Web Design Certification" and
+- [freecodecamp](https://learn.freecodecamp.org) - "Responsive Web Design Certification" and
 "Javascript Algorithms And Data Structures Certification"
-- https://learn.javascript.ru - "The Modern JavaScript Tutorial"
-- https://Pluralsight.com - Javascript courses
-- https://Scrimba.com - React course
-- https://htmlacademy.ru/ - HTML, CSS course
+- [learn.javascript](https://learn.javascript.ru) - "The Modern JavaScript Tutorial")
+- [Pluralsight](https://Pluralsight.com) - Javascript courses
+- [Scrimba](https://Scrimba.com) - React course
+- [htmlacademy](https://htmlacademy.ru) - HTML, CSS course
+- [Vladilen Minin](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw) - JS, React, TypeScript
+- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) - NodeJS, React, FullStack
 
 #### ENGLISH
 ___
