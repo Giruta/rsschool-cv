@@ -10,13 +10,13 @@ ___
 ![linkedin](./img/linkedin.png) https://www.linkedin.com/in/irina-giruta &nbsp;&nbsp;
 ![github](./img/github.png) [Giruta](https://github.com/Giruta)
 
-####SUMMARY
+#### SUMMARY
 ___
  
 I am motivated adept at web-development with analytical skills, ability to work in team environments, 
 and strong attention to detail. I am looking for a full time job in web development.
 
-####SKILLS
+#### SKILLS
 ___
 `Programming Languages/Technologies`
 
