@@ -7,6 +7,12 @@
 a {
     text-decoration: none;
     outline: none;
+    cursor: pointer;
+    color: #117a8b;
+}
+
+a:hover {
+    color: #1abed8;
 }
 
 p {
