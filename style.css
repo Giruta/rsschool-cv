@@ -34,6 +34,7 @@ html {
     box-shadow: 4px 4px 5px #6c757d;
     background-color: #f8fcfb;
 }
+/*-----header-----*/
 .header__img {
     border: 1px solid #80808063;
 }
@@ -61,7 +62,16 @@ html {
 .section__info {
     padding: 10px;
 }
-
+.section__info .col:first-child {
+    font-weight: bold;
+}
+.section__info .col:last-child {
+    font-style: italic;
+}
+.section__info .row + .row {
+    border-top: 1px solid #80808063
+}
+/*-----media------*/
 @media (max-width: 767px) {
     .header__title {
         font-size: 30px;
@@ -80,9 +90,15 @@ html {
 }
 @media (min-width: 767px) {
     .section__name {
+        font-size: 1.6rem;
         border-bottom: none !important;
     }
     .section .row .border-right-0 {
         border-right: 1px solid #80808063 !important;
+    }
+}
+@media (min-width: 576px) {
+    .section__info .col + .col {
+        border-left: 1px solid #80808063 !important;
     }
 }
